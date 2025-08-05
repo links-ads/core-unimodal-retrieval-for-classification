@@ -5,12 +5,12 @@
 
 This repository contains the implementation of a novel retrieval-based text classification framework designed for gas pipe damage description analysis. The work focuses on determining patch applicability in low-diversity corpora with domain-specific terminology.
 
-<!-- ## 📄 Paper
+## 📄 Paper
 
 **"Classifying Gas Pipe Damage Descriptions in Low-Diversity Corpora"**  
 *Luca Catalano, Federico D'Asaro, Michele Pantaleo, Minal Jamshed, Prima Acharjee, Nicola Giulietti, Eugenio Fossat, Giuseppe Rizzo*
 
-Published at CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics -->
+Published at CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics
 
 ## 🔍 Overview
 
@@ -153,7 +153,7 @@ python3 main/core-synthetic_main.py -c configs/core-synthetic_config.yaml
 2. **Random undersampling** is the most effective strategy for handling class imbalance in specialized domains
 3. **Corpus diversity** is a critical factor in encoder selection for text classification tasks
 
-<!-- ## 📚 Citation
+## 📚 Citation
 
 If you use this work in your research, please cite:
 
@@ -165,7 +165,7 @@ If you use this work in your research, please cite:
   year={2025},
   address={Cagliari, Italy}
 }
-``` -->
+```
 
 ## 📄 License
 
